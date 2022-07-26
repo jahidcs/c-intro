@@ -1,0 +1,10 @@
+The C Preprocessorand Some AdvancedTopics
+
+chapter obj
+12.1 Learn more about *define and *include
+12.2 Understand conditional compilation
+12.3 Learn about #error. #undef, #IIne, and #pragma
+12.4 Examine C's built-in macros
+12.5 Use the # and ## operators
+12.6 Understand function pointers
+12.7 Master dynamic allocation
