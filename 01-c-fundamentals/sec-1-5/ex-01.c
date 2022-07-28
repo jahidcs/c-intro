@@ -2,9 +2,7 @@
 
 int main(){
     int s;
-    //s = 356*24*60*6;
-    s=1;
-    print("1 year = %d seconds", s);
-    printf("calculated");
+    s = 356*24*60*6;
+    printf("1 year %d seconds", s);
     return 0;
 }
