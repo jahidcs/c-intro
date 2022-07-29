@@ -1,11 +1,13 @@
 #include <stdio.h>
 
 int main(){
-    int l;
+    int length, volume;
 
     printf("Enter edge length: ");
-    scanf("%d", &l);
+    scanf("%d", &length);
 
-    printf("Volume of the cube: %d", l*l*l);
+    volume = length * length * length;
+
+    printf("Volume of the cube: %d", volume);
     return 0;
 }
